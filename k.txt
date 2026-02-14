@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 start
 main line1
+=======
+dev line1
+>>>>>>> dev
